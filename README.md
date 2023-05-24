@@ -1,7 +1,7 @@
 # DIO - Formação Java - Trilha de Java Básico
 www.dio.me
 
-#### Autores
+#### Tutores
 - [Gleyson Sampaio](https://github.com/glysns)
 
 ## Sintaxe - Desafio
